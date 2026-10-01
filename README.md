@@ -11,6 +11,7 @@ Egyetemi tanulási segédanyagok – böngészőben futó, önálló HTML fájlo
 | Tárgy | Anyag | Link |
 | --- | --- | --- |
 | Iskolák és tanuló közösségek | Fogalomkártyák (20 kártya, ZH-fogalmak) | [megnyitás](https://grogulab.github.io/university/iskolak-es-tanulokozossegek/fogalomkartyak.html) |
+| Iskolák és tanuló közösségek | OKM csoportlapok (9 nyomtatható lap, OKM 2021 ábrák) | [megnyitás](https://grogulab.github.io/university/iskolak-es-tanulokozossegek/okm-csoportlapok.html) |
 
 ## Felépítés
 
@@ -18,6 +19,7 @@ Egyetemi tanulási segédanyagok – böngészőben futó, önálló HTML fájlo
 index.html                                  landing page, innen nyílnak az anyagok
 iskolak-es-tanulokozossegek/
   fogalomkartyak.html                       20 megfordítható fogalomkártya
+  okm-csoportlapok.html                     9 csoportlap az OKM 2021 ábráival, A4-re nyomtatható
 ```
 
 Minden anyag egyetlen, függőség nélküli HTML fájl: külső szkript, CDN és build-lépés nélkül működik. Elég megnyitni a böngészőben (vagy letölteni és offline megnyitni).
