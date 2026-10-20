@@ -12,6 +12,7 @@ Egyetemi tanulási segédanyagok – böngészőben futó, önálló HTML fájlo
 | --- | --- | --- |
 | Iskolák és tanuló közösségek | Fogalomkártyák (20 kártya, ZH-fogalmak) | [megnyitás](https://grogulab.github.io/university/iskolak-es-tanulokozossegek/fogalomkartyak.html) |
 | Iskolák és tanuló közösségek | OKM csoportlapok (9 nyomtatható lap, OKM 2021 ábrák) | [megnyitás](https://grogulab.github.io/university/iskolak-es-tanulokozossegek/okm-csoportlapok.html) |
+| Pályaszocializációs gyakorlat 2 | Az iskola jéghegye (interaktív: szervezeti kultúra szintjei, besorolós gyakorlat) | [megnyitás](https://grogulab.github.io/university/palyaszocializacios-gyakorlat-2/iskola-jeghegye.html) |
 
 ## Felépítés
 
@@ -20,6 +21,8 @@ index.html                                  landing page, innen nyílnak az anya
 iskolak-es-tanulokozossegek/
   fogalomkartyak.html                       20 megfordítható fogalomkártya
   okm-csoportlapok.html                     9 csoportlap az OKM 2021 ábráival, A4-re nyomtatható
+palyaszocializacios-gyakorlat-2/
+  iskola-jeghegye.html                      interaktív jéghegy: Schein szintjei, formális–informális oldal, gyakorlat
 ```
 
 Minden anyag egyetlen, függőség nélküli HTML fájl: külső szkript, CDN és build-lépés nélkül működik. Elég megnyitni a böngészőben (vagy letölteni és offline megnyitni).
